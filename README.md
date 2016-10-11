@@ -4,15 +4,15 @@
 ## To do
 - [x] [~~Naming convention~~](naming-convention.md)
 - [x] [~~Extend~~](extend.md)
-- [ ] Border
-- [ ] Flex
-- [ ] Gaps
-- [ ] Layout
-- [ ] Lists
-- [ ] Objects
-- [ ] Sizes
-- [ ] Spacing
-- [ ] Typography
+- [x] [~~Borders~~](docs/borders.md)
+- [x] [~~Flex~~](docs/flex.md)
+- [x] [~~Gaps~~](docs/gaps.md)
+- [x] [~~Layout~~](docs/layout.md)
+- [x] [~~Lists~~](docs/lists.md)
+- [x] [~~Objects~~](docs/objects.md)
+- [x] [~~Sizes~~](docs/sizes.md)
+- [x] [~~Spacing~~](docs/spacing.md)
+- [x] [~~Typography~~](docs/typography.md)
 - [ ] ADDONS
 - [ ] Responsive
 - [ ] Flex grid
