@@ -1,18 +1,31 @@
 # [funkcss](https://github.com/filipelinhares/funkcss) documentation
-:page_facing_up: New funkcss documentation.
+
+- [Naming convention](naming-convention.md)
+- [Extend](extend.md)
+- [Borders](docs/borders.md)
+- [Flex](docs/flex.md)
+- [Gaps](docs/gaps.md)
+- [Layout](docs/layout.md)
+- [Lists](docs/lists.md)
+- [Objects](docs/objects.md)
+- [Sizes](docs/sizes.md)
+- [Spacing](docs/spacing.md)
+- [Typography](docs/typography.md)
+
+
 
 ## To do
-- [x] [~~Naming convention~~](naming-convention.md)
-- [x] [~~Extend~~](extend.md)
-- [x] [~~Borders~~](docs/borders.md)
-- [x] [~~Flex~~](docs/flex.md)
-- [x] [~~Gaps~~](docs/gaps.md)
-- [x] [~~Layout~~](docs/layout.md)
-- [x] [~~Lists~~](docs/lists.md)
-- [x] [~~Objects~~](docs/objects.md)
-- [x] [~~Sizes~~](docs/sizes.md)
-- [x] [~~Spacing~~](docs/spacing.md)
-- [x] [~~Typography~~](docs/typography.md)
+- [x] Naming convention
+- [x] Extend
+- [x] Borders
+- [x] Flex
+- [x] Gaps
+- [x] Layout
+- [x] Lists
+- [x] Objects
+- [x] Sizes
+- [x] Spacing
+- [x] Typography
 - [ ] ADDONS
 - [ ] Responsive
 - [ ] Flex grid
